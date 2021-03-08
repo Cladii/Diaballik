@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Pictures">
+        <file>myPionB_ball .png</file>
+        <file>myPionW.png</file>
+        <file>myPionW_ball.png</file>
+        <file>myPionB.png</file>
+    </qresource>
+</RCC>
